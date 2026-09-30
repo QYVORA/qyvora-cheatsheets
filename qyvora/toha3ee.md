@@ -1,7 +1,7 @@
 # TOHA3EE Cheat Sheet
 > Local & network security assessment (recon → MITM → post-ex) · QYVORA Framework (red) · `curl -fsSL https://raw.githubusercontent.com/qyvora/qyvora-toha3ee/main/scripts/install.sh | sh`
 
-"The red hunter" — 73 modules across 10 categories, `.toha3ee` scripting language, REPL/wizard/one-shot.
+"The red hunter" — 70 modules across 10 categories, `.toha3ee` scripting language, REPL/wizard/one-shot.
 
 ---
 
@@ -16,7 +16,7 @@ sudo ./toha3ee script --iface eth0 scripts/full-pipeline.toha3ee
 ```
 Requires root/`CAP_NET_ADMIN`+`CAP_NET_RAW` for most modules; runs under sudo by default (`--no-sudo` to skip).
 
-## Module categories (73 total — run `toha3ee modules` for the live catalogue)
+## Module categories (70 total — run `toha3ee modules` for the live catalogue)
 | Category | Examples |
 |---|---|
 | recon | `net.scan` `net.ping` `net.traceroute` `net.osdetect` `service.synscan` `service.fingerprint` `service.tls` `web.dir` `cve.suggest` |

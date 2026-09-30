@@ -1,5 +1,5 @@
 # Sekhmet Cheat Sheet
-> Baseline-aware, feedback-driven fuzzing · QYVORA Framework · `curl -fsSL https://raw.githubusercontent.com/QYVORA/qyvora-Sekhmet/main/install.sh | bash`
+> Baseline-aware, feedback-driven fuzzing · QYVORA Framework · `curl -fsSL https://raw.githubusercontent.com/QYVORA/qyvora-sekhmet/main/install.sh | bash`
 
 Profiles a target's *normal* behavior first, then fuzzes and classifies crashes/hangs/anomalies relative to that baseline.
 
@@ -58,5 +58,5 @@ sekhmet wordlists search sqli
 - Crash dedup uses SHA-256 signature — a large "crash count" often collapses to a handful of unique bugs after `sekhmet crashes`.
 
 ## See also
-- `github.com/QYVORA/qyvora-Sekhmet`
+- `github.com/QYVORA/qyvora-sekhmet`
 - `web/ffuf.md` (HTTP fuzzing overlap), `reversing/gdb-pwndbg.md` (crash triage)
