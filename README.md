@@ -12,8 +12,8 @@ Every sheet follows [`TEMPLATE.md`](TEMPLATE.md) — Quick start, Most-used comm
 
 | Tool | Domain | Sheet |
 |---|---|---|
-| Anansi | Web attack-surface intelligence | [`qyvora/anansi.md`](qyvora/anansi.md) |
-| TOHA3EE | Network/MITM/post-ex (70 modules) | [`qyvora/toha3ee.md`](qyvora/toha3ee.md) |
+| Anansi | Web application penetration testing framework | [`qyvora/anansi.md`](qyvora/anansi.md) |
+| TOHA3EE | Network security assessment (70 modules) | [`qyvora/toha3ee.md`](qyvora/toha3ee.md) |
 | Jabari | Android security assessment | [`qyvora/jabari.md`](qyvora/jabari.md) |
 | Aksum | Binary security / reverse engineering | [`qyvora/aksum.md`](qyvora/aksum.md) |
 | Shaka | Active Directory / Windows | [`qyvora/shaka.md`](qyvora/shaka.md) |

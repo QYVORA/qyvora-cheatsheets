@@ -1,5 +1,5 @@
 # Anansi Cheat Sheet
-> Attack surface intelligence (web recon) · QYVORA Framework · `curl -fsSL https://raw.githubusercontent.com/QYVORA/qyvora-anansi/main/install.sh | bash`
+> Web application penetration testing framework (recon → analysis → exploitation) · QYVORA Framework · `curl -fsSL https://raw.githubusercontent.com/QYVORA/qyvora-anansi/main/install.sh | bash`
 
 Accent: green/emerald. Go CLI, Metasploit-style console (`anansiλ >`).
 
